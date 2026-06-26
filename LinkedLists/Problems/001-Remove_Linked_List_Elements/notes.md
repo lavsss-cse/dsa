@@ -23,3 +23,6 @@ Explanation: Remove all val = 6 and return the list (i.e.) head
 - loop condition
 - checking base condition - if head element equals val
 - return head, not curr : curr points to the end node after iteration
+
+# Problem Link
+https://leetcode.com/problems/remove-linked-list-elements/description/
