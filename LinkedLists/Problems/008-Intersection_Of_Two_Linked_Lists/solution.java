@@ -14,11 +14,11 @@ public class Solution {
         ListNode a = headA, b = headB;
         while(a != b){
             if(a == null)
-                a = headA;
+                a = headB;
             else
                 a = a.next;
             if(b == null)
-                b = headB;
+                b = headA;
             else
                 b = b.next;
         }
