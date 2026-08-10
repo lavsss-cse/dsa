@@ -18,4 +18,3 @@ A stack doesn't need to erase values. It only changes where top points.
 | `peek()`    | Read `array[top]`                     |
 | `isEmpty()` | Check if `top == -1`                  |
 | `isFull()`  | Check if `top == size - 1`            |
-
